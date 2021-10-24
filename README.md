@@ -1,9 +1,6 @@
 # GarageInvoice
 The GarageInvoice is a desktop and android app where auto shops can create and view invoices for the services provided while maintaining proper organization and accessibility using an online MySQL database. The main page allows customer data to be entered before proceeding to the options for services.
-# Built with
-Xamarin - Open-source platform <br />
-MSSQL - Quaries used for database <br />
-phpMyAdmin - Online Database
+
 # Screenshots
 ## Desktop
 ### Main Page
